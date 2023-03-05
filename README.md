@@ -12,6 +12,13 @@ Location:
 Hardware:
 - Based on the Elegoo Car Kit v3.0 ( https://www.elegoo.com/products/elegoo-smart-robot-car-kit-v-3-0-plus )
 - CPU - Atmel ATMega328P on an Arduino Uno development platform
+    - 8-bit AVR® RISC-based microcontroller
+    - 32 KB Flash
+    - 1 KB EEPROM
+    - 2 KB RAM
+    - 2 instruction words/vector
+    - Separate bootloader section ( SPM instruction can only execute here )
+    - real Read-While-Write Self-Programming
 - Daughter card / Shield - Elegoo Car Shield v3.0
     - L298N Motor Control ( 4x DC motors )
     - Bluetooth Serial - Planned remote control and telemetry to a PC side scripts, actions to be determined
